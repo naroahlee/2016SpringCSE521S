@@ -1,0 +1,1 @@
+cmd_/home/pi/linux_source/studio07/family_reader/family_reader.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/linux_source/studio07/family_reader/family_reader.ko /home/pi/linux_source/studio07/family_reader/family_reader.o /home/pi/linux_source/studio07/family_reader/family_reader.mod.o

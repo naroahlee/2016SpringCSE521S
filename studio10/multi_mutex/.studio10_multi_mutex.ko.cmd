@@ -1,0 +1,1 @@
+cmd_/home/pi/linux_source/studio10/multi_mutex/studio10_multi_mutex.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/linux_source/studio10/multi_mutex/studio10_multi_mutex.ko /home/pi/linux_source/studio10/multi_mutex/studio10_multi_mutex.o /home/pi/linux_source/studio10/multi_mutex/studio10_multi_mutex.mod.o

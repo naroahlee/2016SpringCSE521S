@@ -1,0 +1,1 @@
+cmd_/home/pi/linux_source/studio07/kobj/kobject-example.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/linux_source/studio07/kobj/kobject-example.ko /home/pi/linux_source/studio07/kobj/kobject-example.o /home/pi/linux_source/studio07/kobj/kobject-example.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/pi/linux_source/lab01/multi_thread/lab01_multi.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/linux_source/lab01/multi_thread/lab01_multi.ko /home/pi/linux_source/lab01/multi_thread/lab01_multi.o /home/pi/linux_source/lab01/multi_thread/lab01_multi.mod.o
